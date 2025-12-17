@@ -3,3 +3,4 @@ results/
 
 !data/.gitkeep
 !results/.gitkeep
+__pycache__/
