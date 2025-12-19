@@ -1,0 +1,3 @@
+step,event_id,timestamp,host,user,event_type,anomaly_score,is_anom,transition_prob_from_prev
+1,29,2025-01-01 00:00:29,host_0,user_0,cluster_1,0.4739981293678283,True,
+2,49,2025-01-01 00:00:49,host_0,user_0,cluster_1,0.4739981293678283,True,0.9989669322967529
